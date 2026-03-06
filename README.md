@@ -5,7 +5,7 @@ Each skill shows a different color and an emoji based on the proficiency level.
 
 ## Preview
 
-![Project Preview](images/preview.png)
+![Project Preview](public/images/preview.png)
 
 ## Live Demo
 
