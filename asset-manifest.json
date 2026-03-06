@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Developer-Profile-Card/static/css/main.abfce26a.css",
+    "main.js": "/React-Developer-Profile-Card/static/js/main.8e3a6d27.js",
+    "index.html": "/React-Developer-Profile-Card/index.html",
+    "main.abfce26a.css.map": "/React-Developer-Profile-Card/static/css/main.abfce26a.css.map",
+    "main.8e3a6d27.js.map": "/React-Developer-Profile-Card/static/js/main.8e3a6d27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abfce26a.css",
+    "static/js/main.8e3a6d27.js"
+  ]
+}
